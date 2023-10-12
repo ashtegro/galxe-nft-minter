@@ -30,7 +30,7 @@ const Home: NextPage = () => {
       <main className='relative min-h-[100vh] mx-auto max-w-6xl flex flex-col items-center px-4'>
         <div className='w-full pt-6 sm:pt-12 pb-24 flex flex-col items-center'>
           <ConnectButton />
-          <h1 className='text-5xl sm:text-7xl text-center mt-8 mb-4 text-white'>Görli Nfts</h1>
+          <h1 className='text-5xl sm:text-7xl text-center mt-8 mb-4 text-white'>Polygon Nfts</h1>
           <p className='text-[#AFEEEE] text-center mb-8 sm:mb-12'>Quickly mint all of the nfts you need for testing.</p>
           <div className='w-full flex flex-col sm:flex-row items-center justify-between mx-auto max-w-2xl'>
             <Mint />
